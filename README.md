@@ -5,6 +5,7 @@ the detail information of weather like temperature , humidity , atmospheric pres
 , minimum temperature , latitude ,longitude ,pressure and description
 
 Dependencies of project:-
+
 1)- Tkinter
 
 2)- Requests
