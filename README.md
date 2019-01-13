@@ -6,8 +6,11 @@ the detail information of weather like temperature , humidity , atmospheric pres
 
 Dependencies of project:-
 1)- Tkinter
+
 2)- Requests
+
 3)- PIL (for images)
+
 4)- JSON
 
 Create an account on the " openweathermap " and use the api key provided by openweathermap in weather.py to 
