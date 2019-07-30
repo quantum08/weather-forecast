@@ -7,7 +7,7 @@ from io import StringIO
 
 def wheather():
 
-    api_key = "your authenticated api key"
+    api_key = "43892e929efd4d397accbe15a9549cb9"
 
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
